@@ -88,7 +88,7 @@ public class Aula0710 {
                 if(nValorTotal > 21){
                     JOptionPane.showMessageDialog(null, jop + "\nVocê Venceu! :D");
                 }else{
-                    JOptionPane.showMessageDialog(null, jop + "\nVocê Perdeu");
+                    JOptionPane.showMessageDialog(null, jop + "\nVocê Perdeu D:");
                 }
             }
         }//WHILE TRUE
