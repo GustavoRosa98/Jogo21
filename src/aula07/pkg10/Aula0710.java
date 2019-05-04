@@ -86,7 +86,7 @@ public class Aula0710 {
                 jop = jop + "\nScore Jogador: "+ scoreJogador + "\nScore CPU: "
                     + nValorTotal;
                 if(nValorTotal > 21){
-                    JOptionPane.showMessageDialog(null, jop + "\nVocê Venceu!");
+                    JOptionPane.showMessageDialog(null, jop + "\nVocê Venceu! :D");
                 }else{
                     JOptionPane.showMessageDialog(null, jop + "\nVocê Perdeu");
                 }
