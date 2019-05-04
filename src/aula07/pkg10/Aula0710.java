@@ -85,6 +85,7 @@ public class Aula0710 {
                 jop = "Cartas CPU: " + totalCartas;
                 jop = jop + "\nScore Jogador: "+ scoreJogador + "\nScore CPU: "
                     + nValorTotal;
+                //COMING SOON... 22... FOR NINTENDO SWITCH
                 if(nValorTotal > 21){
                     JOptionPane.showMessageDialog(null, jop + "\nVocê Venceu! :D");
                 }else{
